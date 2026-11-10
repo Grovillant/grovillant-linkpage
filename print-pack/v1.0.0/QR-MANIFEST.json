@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "registry_sha256": "da8fd0a944220d3c22d7baddb3a4885c878de149a7205a150a39c4cecb658de6",
+  "generator_sha256": "4a822df0159ce05c7258f5921ca3914f2434cce7c7691dd84991526ccba36fc7",
+  "dependencies": {
+    "qrcode": "8.2",
+    "Pillow": "11.0.0"
+  },
+  "files": [
+    {
+      "file": "grovillant-qr-brand-v1.0.0-PRINT.svg",
+      "qr_id": "brand",
+      "purpose": "主品牌",
+      "url": "https://grovillant.com",
+      "target": "https://grovillant.com/",
+      "utm": null,
+      "version": "1.0.0",
+      "sha256": "36bdb3c660901a267420da2f8cb4704ef5f22fb8c5f4fda86e7c511c5bd2d05b",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 41,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-brand-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "brand",
+      "purpose": "主品牌",
+      "url": "https://grovillant.com",
+      "target": "https://grovillant.com/",
+      "utm": null,
+      "version": "1.0.0",
+      "sha256": "8dc6004b63ff438de82bb7ea7cf08773ea8bc30633666865b1382f8eb66c272a",
+      "format": "PNG",
+      "pixels": [
+        1312,
+        1312
+      ],
+      "dpi": 600,
+      "modules_including_border": 41,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-pkg-v1.0.0-PRINT.svg",
+      "qr_id": "pkg",
+      "purpose": "包装盒",
+      "url": "https://grovillant.com/q/pkg",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=pkg",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "pkg"
+      },
+      "version": "1.0.0",
+      "sha256": "ae007f4d032178971c0ad7f7ea0a364fb338717e902ffbf1409e5f21cdd51c4a",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-pkg-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "pkg",
+      "purpose": "包装盒",
+      "url": "https://grovillant.com/q/pkg",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=pkg",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "pkg"
+      },
+      "version": "1.0.0",
+      "sha256": "482d04dc17bbe080884316f80b4603b45509b159ed9b78be4fb150c5fd7d706b",
+      "format": "PNG",
+      "pixels": [
+        1440,
+        1440
+      ],
+      "dpi": 600,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-manual-v1.0.0-PRINT.svg",
+      "qr_id": "manual",
+      "purpose": "说明书",
+      "url": "https://grovillant.com/q/manual",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=manual",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "manual"
+      },
+      "version": "1.0.0",
+      "sha256": "fc0f5a6bb7cbf5846a2933999cbc8ed951a0322249335f1cc03018263817eb75",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-manual-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "manual",
+      "purpose": "说明书",
+      "url": "https://grovillant.com/q/manual",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=manual",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "manual"
+      },
+      "version": "1.0.0",
+      "sha256": "98e6720d1b0477f6529a397d9779d59b57a6bfaf51f167d7d2f0bb8238eb192d",
+      "format": "PNG",
+      "pixels": [
+        1440,
+        1440
+      ],
+      "dpi": 600,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-card-v1.0.0-PRINT.svg",
+      "qr_id": "card",
+      "purpose": "售后卡",
+      "url": "https://grovillant.com/q/card",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=card",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "card"
+      },
+      "version": "1.0.0",
+      "sha256": "944b2d4892159b311f12dc7428590272ebe01f2698485fdf92b543967b0b64fe",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-card-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "card",
+      "purpose": "售后卡",
+      "url": "https://grovillant.com/q/card",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=card",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "card"
+      },
+      "version": "1.0.0",
+      "sha256": "55158aa418325c6d6f83190f844a04813b48b68dcf03826aef4aa13bffbe5a51",
+      "format": "PNG",
+      "pixels": [
+        1440,
+        1440
+      ],
+      "dpi": 600,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-fair-v1.0.0-PRINT.svg",
+      "qr_id": "fair",
+      "purpose": "展会线下",
+      "url": "https://grovillant.com/q/fair",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=offline&utm_campaign=fair",
+      "utm": {
+        "source": "qr",
+        "medium": "offline",
+        "campaign": "fair"
+      },
+      "version": "1.0.0",
+      "sha256": "1f26f217ed4eed69f0aba52b32c2864915985853534fde3799663bd556441a77",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 80,
+      "minimum_trial_size_mm": 50,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-fair-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "fair",
+      "purpose": "展会线下",
+      "url": "https://grovillant.com/q/fair",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=offline&utm_campaign=fair",
+      "utm": {
+        "source": "qr",
+        "medium": "offline",
+        "campaign": "fair"
+      },
+      "version": "1.0.0",
+      "sha256": "9bd4d0b5374cb034ae36a7624bb325708f21c27f32d663c141810a63dbb893bd",
+      "format": "PNG",
+      "pixels": [
+        1440,
+        1440
+      ],
+      "dpi": 600,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 80,
+      "minimum_trial_size_mm": 50,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-ad-v1.0.0-PRINT.svg",
+      "qr_id": "ad",
+      "purpose": "广告营销",
+      "url": "https://grovillant.com/q/ad",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=paid&utm_campaign=ad",
+      "utm": {
+        "source": "qr",
+        "medium": "paid",
+        "campaign": "ad"
+      },
+      "version": "1.0.0",
+      "sha256": "4877d172aa0325bb08526eca477d229fb1668d01bcb1c622bcb5e99d196abe98",
+      "format": "SVG",
+      "pixels": null,
+      "dpi": null,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 50,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    },
+    {
+      "file": "grovillant-qr-ad-v1.0.0-PRINT-600dpi.png",
+      "qr_id": "ad",
+      "purpose": "广告营销",
+      "url": "https://grovillant.com/q/ad",
+      "target": "https://grovillant.com/?utm_source=qr&utm_medium=paid&utm_campaign=ad",
+      "utm": {
+        "source": "qr",
+        "medium": "paid",
+        "campaign": "ad"
+      },
+      "version": "1.0.0",
+      "sha256": "84b72adaa1cd85b6926d60e8696eacfdf8a387b924e56cbf1444c3391c2d5d2c",
+      "format": "PNG",
+      "pixels": [
+        1440,
+        1440
+      ],
+      "dpi": 600,
+      "modules_including_border": 45,
+      "quiet_zone_modules": 6,
+      "error_correction": "H",
+      "logo_overlay": false,
+      "recommended_size_mm": 50,
+      "minimum_trial_size_mm": 25,
+      "release_status": "artwork_ready_physical_and_live_acceptance_required"
+    }
+  ],
+  "documents": [
+    {
+      "file": "PRINT-README-中文.md",
+      "sha256": "62bfe18c6c80d4cecf39fc9b4a9c3682b60cc909fd50745a0567fbb0ba9d6c2c"
+    }
+  ]
+}

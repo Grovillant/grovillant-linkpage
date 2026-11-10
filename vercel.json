@@ -1,0 +1,54 @@
+{
+  "redirects": [
+    {
+      "source": "/q/pkg",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=pkg",
+      "permanent": false
+    },
+    {
+      "source": "/q/pkg/",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=pkg",
+      "permanent": false
+    },
+    {
+      "source": "/q/manual",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=manual",
+      "permanent": false
+    },
+    {
+      "source": "/q/manual/",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=manual",
+      "permanent": false
+    },
+    {
+      "source": "/q/card",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=card",
+      "permanent": false
+    },
+    {
+      "source": "/q/card/",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=card",
+      "permanent": false
+    },
+    {
+      "source": "/q/fair",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=offline&utm_campaign=fair",
+      "permanent": false
+    },
+    {
+      "source": "/q/fair/",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=offline&utm_campaign=fair",
+      "permanent": false
+    },
+    {
+      "source": "/q/ad",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=paid&utm_campaign=ad",
+      "permanent": false
+    },
+    {
+      "source": "/q/ad/",
+      "destination": "https://grovillant.com/?utm_source=qr&utm_medium=paid&utm_campaign=ad",
+      "permanent": false
+    }
+  ]
+}

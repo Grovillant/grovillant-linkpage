@@ -1,0 +1,14 @@
+62bfe18c6c80d4cecf39fc9b4a9c3682b60cc909fd50745a0567fbb0ba9d6c2c  PRINT-README-中文.md
+c85ab988f9644b6d926a733ae517b8804ba36d9f430e0b8a0b9418bc1c983f88  QR-MANIFEST.json
+84b72adaa1cd85b6926d60e8696eacfdf8a387b924e56cbf1444c3391c2d5d2c  grovillant-qr-ad-v1.0.0-PRINT-600dpi.png
+4877d172aa0325bb08526eca477d229fb1668d01bcb1c622bcb5e99d196abe98  grovillant-qr-ad-v1.0.0-PRINT.svg
+8dc6004b63ff438de82bb7ea7cf08773ea8bc30633666865b1382f8eb66c272a  grovillant-qr-brand-v1.0.0-PRINT-600dpi.png
+36bdb3c660901a267420da2f8cb4704ef5f22fb8c5f4fda86e7c511c5bd2d05b  grovillant-qr-brand-v1.0.0-PRINT.svg
+55158aa418325c6d6f83190f844a04813b48b68dcf03826aef4aa13bffbe5a51  grovillant-qr-card-v1.0.0-PRINT-600dpi.png
+944b2d4892159b311f12dc7428590272ebe01f2698485fdf92b543967b0b64fe  grovillant-qr-card-v1.0.0-PRINT.svg
+9bd4d0b5374cb034ae36a7624bb325708f21c27f32d663c141810a63dbb893bd  grovillant-qr-fair-v1.0.0-PRINT-600dpi.png
+1f26f217ed4eed69f0aba52b32c2864915985853534fde3799663bd556441a77  grovillant-qr-fair-v1.0.0-PRINT.svg
+98e6720d1b0477f6529a397d9779d59b57a6bfaf51f167d7d2f0bb8238eb192d  grovillant-qr-manual-v1.0.0-PRINT-600dpi.png
+fc0f5a6bb7cbf5846a2933999cbc8ed951a0322249335f1cc03018263817eb75  grovillant-qr-manual-v1.0.0-PRINT.svg
+482d04dc17bbe080884316f80b4603b45509b159ed9b78be4fb150c5fd7d706b  grovillant-qr-pkg-v1.0.0-PRINT-600dpi.png
+ae007f4d032178971c0ad7f7ea0a364fb338717e902ffbf1409e5f21cdd51c4a  grovillant-qr-pkg-v1.0.0-PRINT.svg

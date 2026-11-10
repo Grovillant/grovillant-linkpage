@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "domain": "https://grovillant.com",
+  "assets": [
+    {
+      "qr_id": "brand",
+      "asset_name": "主品牌",
+      "stable_url": "https://grovillant.com",
+      "material_type": "主品牌",
+      "current_target": "https://grovillant.com/",
+      "utm": null,
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": false,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25
+    },
+    {
+      "qr_id": "pkg",
+      "asset_name": "包装盒",
+      "stable_url": "https://grovillant.com/q/pkg",
+      "material_type": "包装盒",
+      "current_target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=pkg",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "pkg"
+      },
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": true,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25
+    },
+    {
+      "qr_id": "manual",
+      "asset_name": "说明书",
+      "stable_url": "https://grovillant.com/q/manual",
+      "material_type": "说明书",
+      "current_target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=manual",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "manual"
+      },
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": true,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25
+    },
+    {
+      "qr_id": "card",
+      "asset_name": "售后卡",
+      "stable_url": "https://grovillant.com/q/card",
+      "material_type": "售后卡",
+      "current_target": "https://grovillant.com/?utm_source=qr&utm_medium=print&utm_campaign=card",
+      "utm": {
+        "source": "qr",
+        "medium": "print",
+        "campaign": "card"
+      },
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": true,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 30,
+      "minimum_trial_size_mm": 25
+    },
+    {
+      "qr_id": "fair",
+      "asset_name": "展会线下",
+      "stable_url": "https://grovillant.com/q/fair",
+      "material_type": "展会线下",
+      "current_target": "https://grovillant.com/?utm_source=qr&utm_medium=offline&utm_campaign=fair",
+      "utm": {
+        "source": "qr",
+        "medium": "offline",
+        "campaign": "fair"
+      },
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": true,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 80,
+      "minimum_trial_size_mm": 50
+    },
+    {
+      "qr_id": "ad",
+      "asset_name": "广告营销",
+      "stable_url": "https://grovillant.com/q/ad",
+      "material_type": "广告营销",
+      "current_target": "https://grovillant.com/?utm_source=qr&utm_medium=paid&utm_campaign=ad",
+      "utm": {
+        "source": "qr",
+        "medium": "paid",
+        "campaign": "ad"
+      },
+      "owner": "Grovillant 品牌负责人（由老板指定具体接手人）",
+      "status": "active",
+      "created_date": "2026-11-10",
+      "created_date_note": "首次登记日期；旧物料实际初印日期待补录",
+      "last_review_date": "2026-11-10",
+      "version": "1.0.0",
+      "legacy": true,
+      "may_disable": false,
+      "replacement_url": null,
+      "rollback": "恢复本注册表上一提交的 current_target 和 UTM，重新生成跳转配置；保留稳定路径。",
+      "changes": [
+        {
+          "date": "2026-11-10",
+          "version": "1.0.0",
+          "note": "登记现有路径，保持旧目标和 UTM；根域名继续作为品牌码。"
+        }
+      ],
+      "recommended_size_mm": 50,
+      "minimum_trial_size_mm": 25
+    }
+  ]
+}

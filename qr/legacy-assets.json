@@ -1,0 +1,105 @@
+[
+  {
+    "file": "grovillant-qr-code.png",
+    "qr_id": "brand",
+    "expected_url": "https://grovillant.com",
+    "sha256": "4675065f86307ec967c675767c6c552b4222b1ce4726c691420fc2be0f42ab02",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "grovillant-qr-code-print.png",
+    "qr_id": "brand",
+    "expected_url": "https://grovillant.com",
+    "sha256": "114b952a75f38a351fe4461cdbc491ea7f3c54a3316b6cbea9931970c8d909db",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "grovillant-qr-code.svg",
+    "qr_id": "brand",
+    "expected_url": "https://grovillant.com",
+    "sha256": "ce8db41dab6d39042176e38d625e74180e06188532815379274c14e2a2c2da80",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。"
+  },
+  {
+    "file": "qr-pkg.png",
+    "qr_id": "pkg",
+    "expected_url": "https://grovillant.com/q/pkg",
+    "sha256": "3a41ab47c68c768b8033a5fad88a00403d4301f75792fd8b8de9d7ebd89dae5d",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-pkg-print.png",
+    "qr_id": "pkg",
+    "expected_url": "https://grovillant.com/q/pkg",
+    "sha256": "d6640a42c23dae4efeca8da959353158e62db6639c96c0edc60c04dda161c3c1",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-manual.png",
+    "qr_id": "manual",
+    "expected_url": "https://grovillant.com/q/manual",
+    "sha256": "74dc565cf9d7b19cead80d560ec7908f26cbadbb654c0fa5bcdb8524a73d6a1a",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-manual-print.png",
+    "qr_id": "manual",
+    "expected_url": "https://grovillant.com/q/manual",
+    "sha256": "c497d9727b134bdb52511b40c9d208327e914ee70d2e86ee56f3cfa14a9afdf4",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-card.png",
+    "qr_id": "card",
+    "expected_url": "https://grovillant.com/q/card",
+    "sha256": "f54ad0971788d25c226877de5e2f548cf1f9d79a0a487382936531acb3f028d8",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-card-print.png",
+    "qr_id": "card",
+    "expected_url": "https://grovillant.com/q/card",
+    "sha256": "d3a4cb9472d6835435ad51f326092511df72419fc84cacfbca89aa07afce43b6",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-fair.png",
+    "qr_id": "fair",
+    "expected_url": "https://grovillant.com/q/fair",
+    "sha256": "e4911d4b4f8f9bc1c32744abac80f609f7ca9e7b6dcbd375cc6b614390b8a075",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-fair-print.png",
+    "qr_id": "fair",
+    "expected_url": "https://grovillant.com/q/fair",
+    "sha256": "a5157c339e19cccba12014366bdb3d98258af6c6c72d17a484c222e3d7a4539a",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-ad.png",
+    "qr_id": "ad",
+    "expected_url": "https://grovillant.com/q/ad",
+    "sha256": "9f42a8221cd252756a0cb43bec48f240aff05d01d6369b738e403374635905fa",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  },
+  {
+    "file": "qr-ad-print.png",
+    "qr_id": "ad",
+    "expected_url": "https://grovillant.com/q/ad",
+    "sha256": "f25067b04542ad58e16d6d479a6a14d582f2f8b45ec793c07fccdc806c31a85c",
+    "note": "历史文件保留；今日新排版使用 print-pack/v1.0.0。旧码不能区分同路径的历史批次。",
+    "decode_result": "PASS"
+  }
+]
